@@ -1,5 +1,5 @@
 /* ============================================
-   BetMaster Pro - Utilidades globales
+   BetGPT Pro - Utilidades globales
    ============================================ */
 
 // --- LocalStorage helpers ---
